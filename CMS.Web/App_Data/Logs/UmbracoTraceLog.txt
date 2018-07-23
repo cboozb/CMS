@@ -1,0 +1,2 @@
+2018-07-17 13:12:16,403 [43] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2018-05-18 13:12:15
+2018-07-17 13:12:16,408 [43] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 9] Application shutdown. Reason: ConfigurationChange

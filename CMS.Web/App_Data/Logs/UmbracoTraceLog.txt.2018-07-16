@@ -1,0 +1,426 @@
+2018-07-16 11:20:20,412 [12] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2018-05-17 11:20:19
+2018-07-16 11:21:46,631 [12] INFO  umbraco.BusinessLogic.Log - [Thread 61] Log scrubbed.  Removed all items older than 2018-05-17 11:21:46
+2018-07-16 11:21:46,637 [12] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 61] Application shutdown. Reason: ConfigurationChange
+2018-07-16 11:21:55,570 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Determining hash of code files on disk
+2018-07-16 11:21:55,628 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Hash determined (took 50ms)
+2018-07-16 11:21:55,631 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2018-07-16 11:21:57,536 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 16 (took 1905ms)
+2018-07-16 11:21:57,540 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2018-07-16 11:21:57,549 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 9ms)
+2018-07-16 11:21:57,549 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2018-07-16 11:21:57,559 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 9ms)
+2018-07-16 11:21:57,559 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2018-07-16 11:21:57,567 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 7ms)
+2018-07-16 11:21:57,568 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2018-07-16 11:21:57,608 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 38ms)
+2018-07-16 11:21:57,608 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2018-07-16 11:21:57,617 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 9ms)
+2018-07-16 11:21:57,868 [48] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 65] Initializing Examine and binding to business logic events
+2018-07-16 11:21:58,220 [48] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 65] Adding examine event handlers for index providers: 3
+2018-07-16 11:21:58,229 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of umbraco.interfaces.IApplication
+2018-07-16 11:21:58,249 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 20ms)
+2018-07-16 11:21:58,496 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of umbraco.interfaces.ITree
+2018-07-16 11:21:58,550 [48] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 54ms)
+2018-07-16 11:21:58,652 [48] INFO  umbraco.content - [Thread 61] Loading content from disk cache...
+2018-07-16 11:21:59,251 [48] WARN  Umbraco.Web.Mvc.RenderMvcController - [Thread 61] No physical template file was found for template HomePage
+2018-07-16 11:22:27,733 [48] INFO  Umbraco.Core.PluginManager - [Thread 64] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2018-07-16 11:22:27,789 [48] INFO  Umbraco.Core.PluginManager - [Thread 64] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 56ms)
+2018-07-16 12:34:12,234 [48] WARN  Umbraco.Web.Mvc.RenderMvcController - [Thread 89] No physical template file was found for template HomePage
+2018-07-16 12:34:30,382 [48] INFO  umbraco.BasePages.BasePage - [Thread 89] User CmsAdmin (Id: 0) logged in
+2018-07-16 12:34:30,495 [48] INFO  Umbraco.Core.PluginManager - [Thread 89] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2018-07-16 12:34:30,504 [48] INFO  Umbraco.Core.PluginManager - [Thread 89] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 8ms)
+2018-07-16 12:34:30,641 [48] INFO  Umbraco.Core.PluginManager - [Thread 89] Starting resolution types of umbraco.interfaces.ITree
+2018-07-16 12:34:30,692 [48] INFO  Umbraco.Core.PluginManager - [Thread 89] Completed resolution of types of umbraco.interfaces.ITree, found 36 (took 51ms)
+2018-07-16 12:35:43,241 [48] INFO  umbraco.BusinessLogic.Log - [Thread 81] Log scrubbed.  Removed all items older than 2018-05-17 12:35:43
+2018-07-16 12:35:43,242 [48] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 81] Application shutdown. Reason: HostingEnvironment
+2018-07-16 13:13:40,077 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2018-07-16 13:13:40,094 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 13ms)
+2018-07-16 13:13:40,105 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2018-07-16 13:13:42,182 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 16 (took 2077ms)
+2018-07-16 13:13:42,197 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2018-07-16 13:13:42,203 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 5ms)
+2018-07-16 13:13:42,205 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2018-07-16 13:13:42,212 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 7ms)
+2018-07-16 13:13:42,213 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2018-07-16 13:13:42,219 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 6ms)
+2018-07-16 13:13:42,224 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2018-07-16 13:13:42,233 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 8ms)
+2018-07-16 13:13:42,233 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2018-07-16 13:13:42,242 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 7ms)
+2018-07-16 13:13:42,450 [11] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2018-07-16 13:13:44,597 [11] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2018-07-16 13:13:44,615 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplication
+2018-07-16 13:13:44,654 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 38ms)
+2018-07-16 13:13:44,735 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.ITree
+2018-07-16 13:13:44,770 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 34ms)
+2018-07-16 13:13:44,953 [11] INFO  umbraco.content - [Thread 9] Loading content from disk cache...
+2018-07-16 13:13:45,460 [11] WARN  Umbraco.Web.Mvc.RenderMvcController - [Thread 9] No physical template file was found for template HomePage
+2018-07-16 13:13:59,890 [11] INFO  umbraco.BasePages.BasePage - [Thread 12] User CmsAdmin (Id: 0) logged in
+2018-07-16 13:14:00,209 [11] INFO  Umbraco.Core.PluginManager - [Thread 12] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2018-07-16 13:14:00,218 [11] INFO  Umbraco.Core.PluginManager - [Thread 12] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 9ms)
+2018-07-16 13:14:00,416 [11] INFO  Umbraco.Core.PluginManager - [Thread 12] Starting resolution types of umbraco.interfaces.ITree
+2018-07-16 13:14:00,465 [11] INFO  Umbraco.Core.PluginManager - [Thread 12] Completed resolution of types of umbraco.interfaces.ITree, found 36 (took 48ms)
+2018-07-16 13:14:02,148 [11] INFO  Umbraco.Core.PluginManager - [Thread 8] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2018-07-16 13:14:02,164 [11] INFO  Umbraco.Core.PluginManager - [Thread 8] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 16ms)
+2018-07-16 13:14:10,613 [11] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of umbraco.interfaces.IDataType
+2018-07-16 13:14:10,639 [11] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 26ms)
+2018-07-16 13:15:20,924 [11] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2018-05-17 13:15:20
+2018-07-16 13:15:20,925 [11] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 13] Application shutdown. Reason: ConfigurationChange
+2018-07-16 13:15:28,437 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Determining hash of code files on disk
+2018-07-16 13:15:28,453 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Hash determined (took 11ms)
+2018-07-16 13:15:28,461 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2018-07-16 13:15:30,593 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 16 (took 2131ms)
+2018-07-16 13:15:30,597 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2018-07-16 13:15:30,608 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 11ms)
+2018-07-16 13:15:30,609 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2018-07-16 13:15:30,617 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 8ms)
+2018-07-16 13:15:30,618 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2018-07-16 13:15:30,626 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 8ms)
+2018-07-16 13:15:30,643 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2018-07-16 13:15:30,656 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 12ms)
+2018-07-16 13:15:30,656 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2018-07-16 13:15:30,669 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 13ms)
+2018-07-16 13:15:30,929 [26] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 22] Initializing Examine and binding to business logic events
+2018-07-16 13:15:31,272 [26] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 22] Adding examine event handlers for index providers: 3
+2018-07-16 13:15:31,277 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of umbraco.interfaces.IApplication
+2018-07-16 13:15:31,295 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 18ms)
+2018-07-16 13:15:31,367 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of umbraco.interfaces.ITree
+2018-07-16 13:15:31,421 [26] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 52ms)
+2018-07-16 13:15:31,858 [26] INFO  umbraco.content - [Thread 9] Loading content from disk cache...
+2018-07-16 13:15:32,710 [26] WARN  Umbraco.Web.Mvc.RenderMvcController - [Thread 9] No physical template file was found for template HomePage
+2018-07-16 13:16:00,774 [26] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2018-07-16 13:16:00,798 [26] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 23ms)
+2018-07-16 13:16:22,795 [26] INFO  umbraco.BasePages.BasePage - [Thread 16] User CmsAdmin (Id: 0) logged in
+2018-07-16 13:16:22,982 [26] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2018-07-16 13:16:22,987 [26] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 5ms)
+2018-07-16 13:16:23,099 [26] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of umbraco.interfaces.ITree
+2018-07-16 13:16:23,127 [26] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of umbraco.interfaces.ITree, found 36 (took 28ms)
+2018-07-16 13:18:15,553 [26] INFO  Umbraco.Core.PluginManager - [Thread 13] Starting resolution types of umbraco.interfaces.IDataType
+2018-07-16 13:18:15,578 [26] INFO  Umbraco.Core.PluginManager - [Thread 13] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 25ms)
+2018-07-16 13:20:57,730 [26] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2018-05-17 13:20:57
+2018-07-16 13:20:57,731 [26] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 11] Application shutdown. Reason: ConfigurationChange
+2018-07-16 13:21:06,604 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2018-07-16 13:21:06,620 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 12ms)
+2018-07-16 13:21:06,627 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2018-07-16 13:21:13,276 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 16 (took 6648ms)
+2018-07-16 13:21:13,278 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2018-07-16 13:21:13,288 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 9ms)
+2018-07-16 13:21:13,289 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2018-07-16 13:21:13,298 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 9ms)
+2018-07-16 13:21:13,299 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2018-07-16 13:21:13,307 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 7ms)
+2018-07-16 13:21:13,343 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2018-07-16 13:21:13,354 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 10ms)
+2018-07-16 13:21:13,354 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2018-07-16 13:21:13,367 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 12ms)
+2018-07-16 13:21:13,624 [35] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2018-07-16 13:21:19,444 [35] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2018-07-16 13:21:19,452 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplication
+2018-07-16 13:21:19,469 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 17ms)
+2018-07-16 13:21:19,971 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.ITree
+2018-07-16 13:21:20,020 [35] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 49ms)
+2018-07-16 13:21:20,254 [35] INFO  umbraco.content - [Thread 29] Loading content from disk cache...
+2018-07-16 13:21:22,384 [35] WARN  Umbraco.Web.Mvc.RenderMvcController - [Thread 29] No physical template file was found for template HomePage
+2018-07-16 13:21:34,777 [35] INFO  umbraco.BasePages.BasePage - [Thread 31] User CmsAdmin (Id: 0) logged in
+2018-07-16 13:21:35,102 [35] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2018-07-16 13:21:35,111 [35] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 9ms)
+2018-07-16 13:21:35,259 [35] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of umbraco.interfaces.ITree
+2018-07-16 13:21:35,306 [35] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of umbraco.interfaces.ITree, found 36 (took 46ms)
+2018-07-16 13:21:36,437 [35] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2018-07-16 13:21:36,460 [35] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 22ms)
+2018-07-16 13:22:02,087 [35] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of umbraco.interfaces.IDataType
+2018-07-16 13:22:02,129 [35] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 40ms)
+2018-07-16 13:38:33,656 [35] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2018-05-17 13:38:33
+2018-07-16 13:38:33,658 [35] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 25] Application shutdown. Reason: ConfigurationChange
+2018-07-16 13:38:36,722 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Determining hash of code files on disk
+2018-07-16 13:38:36,735 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Hash determined (took 9ms)
+2018-07-16 13:38:36,744 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2018-07-16 13:38:37,861 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 16 (took 1116ms)
+2018-07-16 13:38:37,863 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2018-07-16 13:38:37,869 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 5ms)
+2018-07-16 13:38:37,870 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2018-07-16 13:38:37,876 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 6ms)
+2018-07-16 13:38:37,877 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2018-07-16 13:38:37,884 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 6ms)
+2018-07-16 13:38:37,885 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2018-07-16 13:38:37,896 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 10ms)
+2018-07-16 13:38:37,896 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2018-07-16 13:38:37,904 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 8ms)
+2018-07-16 13:38:38,015 [5] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 42] Initializing Examine and binding to business logic events
+2018-07-16 13:38:38,246 [5] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 42] Adding examine event handlers for index providers: 3
+2018-07-16 13:38:38,248 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of umbraco.interfaces.IApplication
+2018-07-16 13:38:38,259 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 10ms)
+2018-07-16 13:38:38,293 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of umbraco.interfaces.ITree
+2018-07-16 13:38:38,337 [5] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 44ms)
+2018-07-16 13:38:38,673 [5] INFO  umbraco.content - [Thread 43] Loading content from disk cache...
+2018-07-16 13:38:39,195 [5] WARN  Umbraco.Web.Mvc.RenderMvcController - [Thread 43] No physical template file was found for template HomePage
+2018-07-16 13:39:05,558 [5] INFO  umbraco.BasePages.BasePage - [Thread 28] User CmsAdmin (Id: 0) logged in
+2018-07-16 13:39:05,696 [5] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2018-07-16 13:39:05,705 [5] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 8ms)
+2018-07-16 13:39:05,844 [5] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of umbraco.interfaces.ITree
+2018-07-16 13:39:05,886 [5] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of umbraco.interfaces.ITree, found 36 (took 41ms)
+2018-07-16 13:39:06,481 [5] INFO  Umbraco.Core.PluginManager - [Thread 43] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2018-07-16 13:39:06,491 [5] INFO  Umbraco.Core.PluginManager - [Thread 43] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 10ms)
+2018-07-16 13:40:17,487 [5] INFO  Umbraco.Core.PluginManager - [Thread 16] Starting resolution types of umbraco.interfaces.IDataType
+2018-07-16 13:40:17,515 [5] INFO  Umbraco.Core.PluginManager - [Thread 16] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 28ms)
+2018-07-16 13:42:37,218 [5] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 17] An unhandled exception occurred
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException (0x800704CD): The remote host closed the connection. The error code is 0x800704CD.
+   at System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   at System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   at System.Web.HttpResponse.Flush(Boolean finalFlush, Boolean async)
+   at System.Web.HttpResponse.Flush()
+   at System.Web.HttpWriter.WriteFromStream(Byte[] data, Int32 offset, Int32 size)
+   at System.Web.HttpResponseStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.Compression.DeflateStream.WriteDeflaterOutput(Boolean isAsync)
+   at System.IO.Compression.DeflateStream.PurgeBuffers(Boolean disposing)
+   at System.IO.Compression.DeflateStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Compression.GZipStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at umbraco.presentation.plugins.tinymce3.GzipCompressor.Compress(Stream to_stream)
+   at umbraco.presentation.plugins.tinymce3.GzipModule.ProcessRequest(HttpContext context)
+   at umbraco.presentation.plugins.tinymce3.tinymce3tinymceCompress.Page_Load(Object sender, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.umbraco_plugins_tinymce3_tinymce3tinymcecompress_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2018-07-16 13:43:24,269 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 18] Couldn't find any page with nodeId=9884. This is most likely caused by the page not being published.
+2018-07-16 13:51:58,586 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 15] Couldn't find any page with nodeId=9884. This is most likely caused by the page not being published.
+2018-07-16 13:52:04,597 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 39] Couldn't find any page with nodeId=9947. This is most likely caused by the page not being published.
+2018-07-16 13:53:25,947 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 40] Couldn't find any page with nodeId=9947. This is most likely caused by the page not being published.
+2018-07-16 13:53:30,815 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 40] Couldn't find any page with nodeId=9947. This is most likely caused by the page not being published.
+2018-07-16 15:36:33,497 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 47] Couldn't find any page with nodeId=9917. This is most likely caused by the page not being published.
+2018-07-16 15:37:06,740 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 14] Couldn't find any page with nodeId=9906. This is most likely caused by the page not being published.
+2018-07-16 15:37:12,319 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 44] Couldn't find any page with nodeId=9905. This is most likely caused by the page not being published.
+2018-07-16 15:37:24,569 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 44] Couldn't find any page with nodeId=9885. This is most likely caused by the page not being published.
+2018-07-16 15:37:30,063 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 47] Couldn't find any page with nodeId=9884. This is most likely caused by the page not being published.
+2018-07-16 15:37:44,208 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 47] Couldn't find any page with nodeId=9883. This is most likely caused by the page not being published.
+2018-07-16 15:38:18,590 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 44] Couldn't find any page with nodeId=9873. This is most likely caused by the page not being published.
+2018-07-16 15:38:22,557 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 39] Couldn't find any page with nodeId=9872. This is most likely caused by the page not being published.
+2018-07-16 15:38:25,120 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 44] Couldn't find any page with nodeId=9871. This is most likely caused by the page not being published.
+2018-07-16 15:38:37,510 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 39] Couldn't find any page with nodeId=9832. This is most likely caused by the page not being published.
+2018-07-16 15:38:40,631 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 39] Couldn't find any page with nodeId=9831. This is most likely caused by the page not being published.
+2018-07-16 15:38:43,863 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 39] Couldn't find any page with nodeId=9830. This is most likely caused by the page not being published.
+2018-07-16 15:38:48,371 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 44] Couldn't find any page with nodeId=9829. This is most likely caused by the page not being published.
+2018-07-16 15:38:51,669 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 39] Couldn't find any page with nodeId=9828. This is most likely caused by the page not being published.
+2018-07-16 15:38:54,328 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 39] Couldn't find any page with nodeId=9827. This is most likely caused by the page not being published.
+2018-07-16 15:38:57,671 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 44] Couldn't find any page with nodeId=9826. This is most likely caused by the page not being published.
+2018-07-16 15:39:00,269 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 44] Couldn't find any page with nodeId=9825. This is most likely caused by the page not being published.
+2018-07-16 15:39:34,184 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 44] Couldn't find any page with nodeId=9816. This is most likely caused by the page not being published.
+2018-07-16 15:39:43,453 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 13] Couldn't find any page with nodeId=9814. This is most likely caused by the page not being published.
+2018-07-16 15:39:45,708 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 40] Couldn't find any page with nodeId=9814. This is most likely caused by the page not being published.
+2018-07-16 15:39:52,958 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 16] Couldn't find any page with nodeId=9809. This is most likely caused by the page not being published.
+2018-07-16 15:39:59,171 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 16] Couldn't find any page with nodeId=9807. This is most likely caused by the page not being published.
+2018-07-16 15:40:07,223 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 39] Couldn't find any page with nodeId=9805. This is most likely caused by the page not being published.
+2018-07-16 15:40:20,123 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 16] Couldn't find any page with nodeId=9801. This is most likely caused by the page not being published.
+2018-07-16 15:40:31,155 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 44] Couldn't find any page with nodeId=9799. This is most likely caused by the page not being published.
+2018-07-16 15:40:34,301 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 39] Couldn't find any page with nodeId=9798. This is most likely caused by the page not being published.
+2018-07-16 15:40:37,454 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 39] Couldn't find any page with nodeId=9797. This is most likely caused by the page not being published.
+2018-07-16 15:40:40,044 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 39] Couldn't find any page with nodeId=9781. This is most likely caused by the page not being published.
+2018-07-16 15:40:45,934 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 39] Couldn't find any page with nodeId=9763. This is most likely caused by the page not being published.
+2018-07-16 15:40:48,525 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 39] Couldn't find any page with nodeId=9749. This is most likely caused by the page not being published.
+2018-07-16 15:40:51,092 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 39] Couldn't find any page with nodeId=9748. This is most likely caused by the page not being published.
+2018-07-16 15:40:53,832 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 39] Couldn't find any page with nodeId=9747. This is most likely caused by the page not being published.
+2018-07-16 15:40:56,570 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 44] Couldn't find any page with nodeId=9746. This is most likely caused by the page not being published.
+2018-07-16 15:41:00,962 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 39] Couldn't find any page with nodeId=8714. This is most likely caused by the page not being published.
+2018-07-16 15:41:38,491 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 39] Couldn't find any page with nodeId=6641. This is most likely caused by the page not being published.
+2018-07-16 15:42:31,028 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 34] Couldn't find any page with nodeId=6619. This is most likely caused by the page not being published.
+2018-07-16 15:43:30,386 [5] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 13] An unhandled exception occurred
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException (0x800704CD): The remote host closed the connection. The error code is 0x800704CD.
+   at System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   at System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   at System.Web.HttpResponse.Flush(Boolean finalFlush, Boolean async)
+   at System.Web.HttpResponse.Flush()
+   at System.Web.HttpWriter.WriteFromStream(Byte[] data, Int32 offset, Int32 size)
+   at System.Web.HttpResponseStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.Compression.DeflateStream.PurgeBuffers(Boolean disposing)
+   at System.IO.Compression.DeflateStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Compression.GZipStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at umbraco.presentation.plugins.tinymce3.GzipCompressor.Compress(Stream to_stream)
+   at umbraco.presentation.plugins.tinymce3.GzipModule.ProcessRequest(HttpContext context)
+   at umbraco.presentation.plugins.tinymce3.tinymce3tinymceCompress.Page_Load(Object sender, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.umbraco_plugins_tinymce3_tinymce3tinymcecompress_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2018-07-16 15:44:21,432 [5] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 13] An unhandled exception occurred
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException (0x800704CD): The remote host closed the connection. The error code is 0x800704CD.
+   at System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   at System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   at System.Web.HttpResponse.Flush(Boolean finalFlush, Boolean async)
+   at System.Web.HttpResponse.Flush()
+   at System.Web.HttpWriter.WriteFromStream(Byte[] data, Int32 offset, Int32 size)
+   at System.Web.HttpResponseStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.Compression.DeflateStream.PurgeBuffers(Boolean disposing)
+   at System.IO.Compression.DeflateStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Compression.GZipStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at umbraco.presentation.plugins.tinymce3.GzipCompressor.Compress(Stream to_stream)
+   at umbraco.presentation.plugins.tinymce3.GzipModule.ProcessRequest(HttpContext context)
+   at umbraco.presentation.plugins.tinymce3.tinymce3tinymceCompress.Page_Load(Object sender, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.umbraco_plugins_tinymce3_tinymce3tinymcecompress_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2018-07-16 15:44:29,625 [5] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 40] An unhandled exception occurred
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException (0x800704CD): The remote host closed the connection. The error code is 0x800704CD.
+   at System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   at System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   at System.Web.HttpResponse.Flush(Boolean finalFlush, Boolean async)
+   at System.Web.HttpResponse.Flush()
+   at System.Web.HttpWriter.WriteFromStream(Byte[] data, Int32 offset, Int32 size)
+   at System.Web.HttpResponseStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.Compression.DeflateStream.PurgeBuffers(Boolean disposing)
+   at System.IO.Compression.DeflateStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Compression.GZipStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at umbraco.presentation.plugins.tinymce3.GzipCompressor.Compress(Stream to_stream)
+   at umbraco.presentation.plugins.tinymce3.GzipModule.ProcessRequest(HttpContext context)
+   at umbraco.presentation.plugins.tinymce3.tinymce3tinymceCompress.Page_Load(Object sender, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.umbraco_plugins_tinymce3_tinymce3tinymcecompress_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2018-07-16 15:45:47,480 [5] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 13] An unhandled exception occurred
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException (0x800704CD): The remote host closed the connection. The error code is 0x800704CD.
+   at System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   at System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   at System.Web.HttpResponse.Flush(Boolean finalFlush, Boolean async)
+   at System.Web.HttpResponse.Flush()
+   at System.Web.HttpWriter.WriteFromStream(Byte[] data, Int32 offset, Int32 size)
+   at System.Web.HttpResponseStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.Compression.DeflateStream.WriteDeflaterOutput(Boolean isAsync)
+   at System.IO.Compression.DeflateStream.PurgeBuffers(Boolean disposing)
+   at System.IO.Compression.DeflateStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Compression.GZipStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at umbraco.presentation.plugins.tinymce3.GzipCompressor.Compress(Stream to_stream)
+   at umbraco.presentation.plugins.tinymce3.GzipModule.ProcessRequest(HttpContext context)
+   at umbraco.presentation.plugins.tinymce3.tinymce3tinymceCompress.Page_Load(Object sender, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.umbraco_plugins_tinymce3_tinymce3tinymcecompress_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2018-07-16 15:45:49,507 [5] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 37] An unhandled exception occurred
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException (0x800704CD): The remote host closed the connection. The error code is 0x800704CD.
+   at System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   at System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   at System.Web.HttpResponse.Flush(Boolean finalFlush, Boolean async)
+   at System.Web.HttpResponse.Flush()
+   at System.Web.HttpWriter.WriteFromStream(Byte[] data, Int32 offset, Int32 size)
+   at System.Web.HttpResponseStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.Compression.DeflateStream.PurgeBuffers(Boolean disposing)
+   at System.IO.Compression.DeflateStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Compression.GZipStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at umbraco.presentation.plugins.tinymce3.GzipCompressor.Compress(Stream to_stream)
+   at umbraco.presentation.plugins.tinymce3.GzipModule.ProcessRequest(HttpContext context)
+   at umbraco.presentation.plugins.tinymce3.tinymce3tinymceCompress.Page_Load(Object sender, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.umbraco_plugins_tinymce3_tinymce3tinymcecompress_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2018-07-16 15:49:38,787 [5] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 14] Couldn't find any page with nodeId=3042. This is most likely caused by the page not being published.
+2018-07-16 15:56:31,829 [5] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2018-05-17 15:56:31
+2018-07-16 15:56:31,830 [5] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 49] Application shutdown. Reason: ConfigurationChange
+2018-07-16 15:56:37,645 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Determining hash of code files on disk
+2018-07-16 15:56:37,661 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Hash determined (took 11ms)
+2018-07-16 15:56:37,669 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2018-07-16 15:56:39,500 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 16 (took 1830ms)
+2018-07-16 15:56:39,506 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2018-07-16 15:56:39,527 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 20ms)
+2018-07-16 15:56:39,530 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2018-07-16 15:56:39,538 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 8ms)
+2018-07-16 15:56:39,539 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2018-07-16 15:56:39,548 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 8ms)
+2018-07-16 15:56:39,552 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2018-07-16 15:56:39,561 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 9ms)
+2018-07-16 15:56:39,562 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2018-07-16 15:56:39,571 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 8ms)
+2018-07-16 15:56:39,777 [43] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 23] Initializing Examine and binding to business logic events
+2018-07-16 15:56:43,988 [43] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 23] Adding examine event handlers for index providers: 3
+2018-07-16 15:56:43,995 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of umbraco.interfaces.IApplication
+2018-07-16 15:56:44,019 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 24ms)
+2018-07-16 15:56:44,126 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of umbraco.interfaces.ITree
+2018-07-16 15:56:44,177 [43] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 50ms)
+2018-07-16 15:56:44,327 [43] INFO  umbraco.content - [Thread 31] Loading content from disk cache...
+2018-07-16 15:56:44,976 [43] WARN  Umbraco.Web.Mvc.RenderMvcController - [Thread 31] No physical template file was found for template HomePage
+2018-07-16 15:57:04,327 [43] INFO  umbraco.BasePages.BasePage - [Thread 26] User CmsAdmin (Id: 0) logged in
+2018-07-16 15:57:04,485 [43] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2018-07-16 15:57:04,493 [43] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 8ms)
+2018-07-16 15:57:04,648 [43] INFO  Umbraco.Core.PluginManager - [Thread 26] Starting resolution types of umbraco.interfaces.ITree
+2018-07-16 15:57:04,691 [43] INFO  Umbraco.Core.PluginManager - [Thread 26] Completed resolution of types of umbraco.interfaces.ITree, found 36 (took 43ms)
+2018-07-16 15:57:05,636 [43] INFO  Umbraco.Core.PluginManager - [Thread 24] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2018-07-16 15:57:05,672 [43] INFO  Umbraco.Core.PluginManager - [Thread 24] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 36ms)
+2018-07-16 15:57:25,587 [43] INFO  Umbraco.Core.PluginManager - [Thread 24] Starting resolution types of umbraco.interfaces.IDataType
+2018-07-16 15:57:25,620 [43] INFO  Umbraco.Core.PluginManager - [Thread 24] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 33ms)
+2018-07-16 17:17:56,946 [43] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 18] Content 'MBTIComplete' with Id '3025' has been published.
+2018-07-16 17:17:57,231 [43] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2018-07-16 17:17:57,254 [43] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 22 (took 23ms)
+2018-07-16 17:27:43,603 [43] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 14] Content 'MBTIComplete' with Id '3025' has been published.
