@@ -55,5 +55,4 @@ C:\Users\cblack\source\repos\CMS\CMS.Core\bin\Debug\System.Web.Razor.xml
 C:\Users\cblack\source\repos\CMS\CMS.Core\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\cblack\source\repos\CMS\CMS.Core\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\cblack\source\repos\CMS\CMS.Core\bin\Debug\umbraco.XmlSerializers.dll
-C:\Users\cblack\source\repos\CMS\CMS.Core\obj\Debug\CMS.Core.csprojResolveAssemblyReference.cache
 C:\Users\cblack\source\repos\CMS\CMS.Core\obj\Debug\CMS.Core.csproj.CopyComplete
